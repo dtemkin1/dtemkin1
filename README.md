@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I have a cat named Skateboard 😺🛹 :3**
 
-### Blogs posts
+### My work and recent projects
 <!-- BLOG-POST-LIST:START -->
 - [Plasma Science and Fusion Center at MIT](https://diegotemkin.com/work/psfc/)
 - [mini-UROP 2023](https://diegotemkin.com/work/mini-urop-2023/)
