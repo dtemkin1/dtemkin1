@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Plasma Science and Fusion Center at MIT](https://diegotemkin.com/work/psfc/)
+- [mini-UROP 2023](https://diegotemkin.com/work/mini-urop-2023/)
+- [MIT Athena Site](https://diegotemkin.com/work/mit-athena-site/)
+- [Engineering, Design, and Development &lpar;EDD&rpar;](https://diegotemkin.com/work/edd/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
