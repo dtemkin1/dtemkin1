@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dtemkin@mit.edu**
 
-- 📄 Know about my experiences [https://diegotemkin.com/resume.pdf](https://diegotemkin.com/resume.pdf)
+<!-- - 📄 Know about my experiences [https://diegotemkin.com/resume.pdf](https://diegotemkin.com/resume.pdf) -->
 
 - ⚡ Fun fact **I have a cat named Skateboard 😺🛹 :3**
 
