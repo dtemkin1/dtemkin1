@@ -1,17 +1,31 @@
 <h2 align="center">Hi 👋! I'm Diego Temkin :D</h2>
+<h3 align="center">A student at MIT studying Computer Science and Urban Planning</h3>
 
-###
+- 🔭 I’m currently working on [a research project with the MIT Plasma Science and Fusion Center](https://www.psfc.mit.edu/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dtemkin1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dtemkin1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+- 🌱 I’m currently learning **machine learning, GIS and spatial analysis, web development, and more!**
+
+- 👨‍💻 All of my projects are available at [https://github.com/dtemkin1](https://github.com/dtemkin1)
+
+- 📝 I document the work I do at [https://diegotemkin.com/](https://diegotemkin.com/)
+
+- 💬 Ask me about **literally anything :D**
+
+- 📫 How to reach me **dtemkin@mit.edu**
+
+- ⚡ Fun fact **I have a cat named Skateboard 😺🛹 :3**
 
 ###
 
 <img align="right" height="150" src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif"  />
 
-###
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Plasma Science and Fusion Center at MIT](https://diegotemkin.com/work/psfc/)
+- [mini-UROP 2023](https://diegotemkin.com/work/mini-urop-2023/)
+- [MIT Athena Site](https://diegotemkin.com/work/mit-athena-site/)
+- [Engineering, Design, and Development &lpar;EDD&rpar;](https://diegotemkin.com/work/edd/)
+<!-- BLOG-POST-LIST:END -->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
