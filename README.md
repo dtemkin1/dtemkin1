@@ -15,10 +15,6 @@
 
 - ⚡ Fun fact **I have a cat named Skateboard 😺🛹 :3**
 
-###
-
-<img align="right" height="150" src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif"  />
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Plasma Science and Fusion Center at MIT](https://diegotemkin.com/work/psfc/)
@@ -27,7 +23,11 @@
 - [Engineering, Design, and Development &lpar;EDD&rpar;](https://diegotemkin.com/work/edd/)
 <!-- BLOG-POST-LIST:END -->
 
-<div align="left">
+###
+
+<img align="right" height="150" src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif"  />
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
@@ -79,7 +79,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/diego-temkin/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
