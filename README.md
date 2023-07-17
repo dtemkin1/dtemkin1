@@ -17,10 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nature-Based Solutions Dashboard](https://www.diegotemkin.com/work/nature-based-solutions-dashboard/)
+- [Law and Cutting-Edge Technologies](https://www.diegotemkin.com/work/law-and-cutting-edge-technologies/)
 - [Plasma Science and Fusion Center at MIT](https://www.diegotemkin.com/work/psfc/)
 - [mini-UROP 2023](https://www.diegotemkin.com/work/mini-urop-2023/)
-- [MIT Athena Site](https://www.diegotemkin.com/work/mit-athena-site/)
-- [Engineering, Design, and Development &lpar;EDD&rpar;](https://www.diegotemkin.com/work/edd/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
