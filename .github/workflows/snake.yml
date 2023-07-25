@@ -21,12 +21,14 @@ jobs:
 
     steps:
       - name: generate snake.svg
-        uses: aelassas/snk/svg-only@main
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg
             dist/dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload artifact 📦⬆️
         uses: actions/upload-pages-artifact@v1
