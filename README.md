@@ -17,9 +17,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Nature-Based Solutions Dashboard](https://www.diegotemkin.com/work/nature-based-solutions-dashboard/)
-- [Law and Cutting-Edge Technologies](https://www.diegotemkin.com/work/law-and-cutting-edge-technologies/)
-- [Plasma Science and Fusion Center at MIT](https://www.diegotemkin.com/work/psfc/)
+- [Nature-Based Solutions Dashboard](https://www.diegotemkin.com/work/nbs-dashboard-urop/)
+- [Law and Cutting-Edge Technologies](https://www.diegotemkin.com/work/law-technology-urop/)
+- [Plasma Science and Fusion Center at MIT](https://www.diegotemkin.com/work/psfc-urop/)
 - [mini-UROP 2023](https://www.diegotemkin.com/work/mini-urop-2023/)
 <!-- BLOG-POST-LIST:END -->
 
