@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋! I'm Diego Temkin :D</h2>
-<h3 align="center">A student at MIT studying Computer Science and Urban Planning</h3>
+<h3 align="center">A student at MIT studying Computer Science and Engineering + Urban Planning</h3>
 
-- 🔭 I’m currently working on [a research project with the Department of Urban Studies and Planning at MIT](https://dusp.mit.edu/)
+- 🔭 I’m currently working on [a research project with the Department of Urban Studies and Planning at MIT](https://dusp.mit.edu/news/leveraging-nature-based-solutions-achieve-carbon-neutral-cities)
 
-- 🌱 I’m currently learning **machine learning, GIS and spatial analysis, web development, and more!**
+- 🌱 I’m currently learning **[algorithms](https://student.mit.edu/catalog/m6a.html#6.1210), [computation structures](https://student.mit.edu/catalog/m6a.html#6.1910), [modelling pedestrian activities](https://student.mit.edu/catalog/m11a.html#11.024), and more!**
 
 - 👨‍💻 All of my projects are available at [github.com/dtemkin1](https://github.com/dtemkin1)
 
