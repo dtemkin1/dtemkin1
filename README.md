@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! I'm Diego Temkin :D</h2>
 <h3 align="center">A student at MIT studying Computer Science and Engineering + Urban Planning</h3>
 
-- 🔭 I’m currently working on [a research project with the Department of Urban Studies and Planning at MIT](https://dusp.mit.edu/news/leveraging-nature-based-solutions-achieve-carbon-neutral-cities)
+- 🔭 I’m currently working with the [U.S. DOT Volpe National Transportation Systems Center](https://www.volpe.dot.gov/) through the [Pathways Internship program](https://www.transportation.gov/careers/pathways-program#Internship)
 
 - 🌱 I’m currently learning **[algorithms](https://student.mit.edu/catalog/m6a.html#6.1210), [computation structures](https://student.mit.edu/catalog/m6a.html#6.1910), [modelling pedestrian activities](https://student.mit.edu/catalog/m11a.html#11.024), and more!**
 
