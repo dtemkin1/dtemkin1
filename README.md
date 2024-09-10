@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with the [U.S. DOT Volpe National Transportation Systems Center](https://www.volpe.dot.gov/) through the [Pathways Internship program](https://www.transportation.gov/careers/pathways-program#Internship)
 
-- 🌱 I’m currently learning **[algorithms](https://student.mit.edu/catalog/m6a.html#6.1210), [computation structures](https://student.mit.edu/catalog/m6a.html#6.1910), [modelling pedestrian activities](https://student.mit.edu/catalog/m11a.html#11.024), and more!**
+- 🌱 I’m currently learning **[algorithm design/analysis](https://student.mit.edu/catalog/m6a.html#6.1220), [operating systems engineering](https://student.mit.edu/catalog/m6a.html#6.1810), [internet policy](https://student.mit.edu/catalog/m6d.html#6.4590), [transportation planning/policy](https://student.mit.edu/catalog/m11c.html#11.540), and more!**
 
 - 👨‍💻 All of my projects are available at [github.com/dtemkin1](https://github.com/dtemkin1)
 
