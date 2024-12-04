@@ -19,10 +19,10 @@
 
 ### Recent Projects
 <!-- BLOG-POST-LIST:START -->
-- [Nature-Based Solutions Dashboard](https://www.diegotemkin.com/work/nbs-dashboard-urop/)
-- [Law and Cutting-Edge Technologies](https://www.diegotemkin.com/work/law-technology-urop/)
-- [Plasma Science and Fusion Center at MIT](https://www.diegotemkin.com/work/psfc-urop/)
-- [mini-UROP 2023](https://www.diegotemkin.com/work/mini-urop-2023/)
+- [Nature-Based Solutions Dashboard](https://www.diegotemkin.com/work/undefined/)
+- [Law and Cutting-Edge Technologies](https://www.diegotemkin.com/work/undefined/)
+- [Plasma Science and Fusion Center at MIT](https://www.diegotemkin.com/work/undefined/)
+- [mini-UROP 2023](https://www.diegotemkin.com/work/undefined/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
