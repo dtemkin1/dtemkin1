@@ -1,9 +1,11 @@
 <h2 align="center">Hi 👋! I'm Diego Temkin :D</h2>
 <h3 align="center">A student at MIT studying Computer Science and Engineering + Urban Planning</h3>
 
-<!-- - 🔭 I’m currently working with the [U.S. DOT Volpe National Transportation Systems Center](https://www.volpe.dot.gov/) through the [Pathways Internship program](https://www.transportation.gov/careers/pathways-program#Internship) -->
+- 🔭 I’m currently working with the [Washington Metropolitan Area Transit Authority (WMATA)](https://wmata.com/) in the Department of Operations
 
-- 🌱 I’m currently learning **[distributed computer systems engineering](https://student.mit.edu/catalog/m6a.html#6.5840), [verified software engineering](https://student.mit.edu/catalog/m6e.html#6.S057), [music technology (musical acoustics, synthesis, and digital audio effects)](https://student.mit.edu/catalog/m21Ma.html#21M.369), [urban design/development](https://student.mit.edu/catalog/m11a.html#11.001), and more!**
+- 🌱 I’ll be learning about **[computer networks](https://student.mit.edu/catalog/m6a.html#6.5820), [computer systems and society](https://student.mit.edu/catalog/m6a.html#6.1850), [applied category theory for engineering design](https://student.mit.edu/catalog/m11Ma.html#11.144), and more in the fall!**
+
+- 🔎 I'll be doing research through [the SuperUROP program](https://superurop.mit.edu/) in **reimagining urban bus operations** with the [Civil and Environmental Engineering department](https://cee.mit.edu/)
 
 - 👨‍💻 All of my projects are available at [github.com/dtemkin1](https://github.com/dtemkin1)
 
@@ -13,7 +15,7 @@
 
 - 📫 You can reach me at **dtemkin@mit.edu**
 
-- ⚡ Fun fact: **I have a cat named Skateboard 😺🛹 :3**
+- ⚡ Fun fact: **I have a cat named Skateboard 😺🛹**
 
 <img align="right" height="125" src="https://media.tenor.com/WX8OXgN5VpMAAAAi/waving-wave-hello.gif"  />
 
