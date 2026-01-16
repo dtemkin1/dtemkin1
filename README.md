@@ -21,10 +21,10 @@
 
 ### Recent Projects
 <!-- BLOG-POST-LIST:START -->
+- [SuperUROP: Reimagining Urban Bus Operations](https://www.diegotemkin.com/work/superurop/)
+- [Washington Metropolitan Area Transit Authority](https://www.diegotemkin.com/work/wmata/)
+- [U.S. DOT Volpe National Transportation Systems Center](https://www.diegotemkin.com/work/volpe/)
 - [Nature-Based Solutions Dashboard](https://www.diegotemkin.com/work/nbs-dashboard-urop/)
-- [Law and Cutting-Edge Technologies](https://www.diegotemkin.com/work/law-technology-urop/)
-- [Plasma Science and Fusion Center at MIT](https://www.diegotemkin.com/work/psfc-urop/)
-- [mini-UROP 2023](https://www.diegotemkin.com/work/mini-urop-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
