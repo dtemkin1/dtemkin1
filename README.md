@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working in the [Laboratory for Information and Decision Systems (LIDS) at MIT](https://lids.mit.edu/) with the [Zardini Group](https://zardini.mit.edu/).
 
-- 🌱 I’ll be learning about **[computer systems and society](https://student.mit.edu/catalog/m6a.html#6.1850), [applied category theory for engineering design](https://student.mit.edu/catalog/m11Ma.html#11.144), and more in the fall!**
+- 🌱 I’ll be graduating with a **Bacherlor's degree** in May!
 
-- 🔎 I'll be doing research through [the SuperUROP program](https://superurop.mit.edu/) in **reimagining urban bus operations** with the [Civil and Environmental Engineering department](https://cee.mit.edu/)
+- 🔎 I'm doing research through [the SuperUROP program](https://superurop.mit.edu/) in **reimagining urban bus operations** with the [Civil and Environmental Engineering department](https://cee.mit.edu/)
 
 - 👨‍💻 All of my projects are available at [github.com/dtemkin1](https://github.com/dtemkin1)
 
