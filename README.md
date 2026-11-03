@@ -21,9 +21,10 @@
 
 ### Recent Projects
 <!-- BLOG-POST-LIST:START -->
-- [SuperUROP: Reimagining Urban Bus Operations](https://www.diegotemkin.com/work/superurop/)
-- [Washington Metropolitan Area Transit Authority](https://www.diegotemkin.com/work/wmata/)
-- [U.S. DOT Volpe National Transportation Systems Center](https://www.diegotemkin.com/work/volpe/)
+- [JTL-Transit Lab: K-12 Student Ridership](https://www.diegotemkin.com/work/jtl-k12/)
+- [School Bus Network Co-Design](https://www.diegotemkin.com/work/superurop/)
+- [WMATA: Reliability Engineering](https://www.diegotemkin.com/work/wmata/)
+- [U.S. DOT Volpe Center](https://www.diegotemkin.com/work/volpe/)
 - [Nature-Based Solutions Dashboard](https://www.diegotemkin.com/work/nbs-dashboard-urop/)
 <!-- BLOG-POST-LIST:END -->
 
